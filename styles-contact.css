@@ -81,7 +81,8 @@ html, body {
    
 #logo {
     margin-bottom: 16px;
-	margin-top: 10px;
+    margin-top: 10px;
+    margin-right: 6px;
 	border: 3px dashed red;
 	text-align: center;
 	padding-top: 15px;
